@@ -15,7 +15,6 @@ header {
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid seashell;
-  opacity: 0.5;
   height: 69px;
 }
 .logo {
@@ -47,7 +46,6 @@ nav a{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  opacity: 0.5;
 }
 .text {
   background-color: black;
@@ -55,9 +53,6 @@ nav a{
 
 }
 /*================FEATURED=============*/
-.featured h2, .featured h4 {
-  opacity: 0.5;
-}
 .photos {
   width: 1000px;
   display: inline-flex;
@@ -72,7 +67,6 @@ display: flex;
 height: 200px;
 width: 300px;
 justify-content: center;
-opacity: 0.5;
 margin-bottom: 0;
 }
 .photo h4 {
@@ -85,7 +79,6 @@ margin-bottom: 0;
   height: 500px;
   width: 1200px;
   background-image: url("../images/img-locations-background.jpg");
-  opacity: 0.5;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -112,10 +105,8 @@ margin-bottom: 0;
   height: 200px;
   justify-content: center;
   align-items: center;
-  opacity: 0.5;
 }
 .copyright h5 {
   margin-left: 20px;
-  opacity: 0.5;
   text-align: left;
 }
